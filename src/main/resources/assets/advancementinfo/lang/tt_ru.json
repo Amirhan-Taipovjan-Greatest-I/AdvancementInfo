@@ -1,0 +1,16 @@
+{
+    "advancementinfo.infopane": "Мәгълүмат",
+    "text.autoconfig.advancementinfo.title": "AdvancementInfo көйләүләре",
+    "text.autoconfig.advancementinfo.option.colorHave": "Төгәлләнгән таләп төс",
+    "text.autoconfig.advancementinfo.option.colorHaveNot": "Төгәлләнмәгән таләп төс",
+    "text.autoconfig.advancementinfo.option.marginX": "X кыры",
+    "text.autoconfig.advancementinfo.option.marginY": "Y кыры",
+    "text.autoconfig.advancementinfo.option.infoWidth": "Мәгълүмат киңлеге",
+    "text.autoconfig.advancementinfo.option.infoWidth.min": "Мин",
+    "text.autoconfig.advancementinfo.option.infoWidth.max": "Макс",
+    "text.autoconfig.advancementinfo.option.infoWidth.percent": "Процент",
+    "text.autoconfig.advancementinfo.option.infoWidth.enabled": "Кушылган",
+
+    "modmenu.summaryTranslation.advancementinfo": "Булган казанышларның һәм аларның алгарышының күренүчәнлек гадиләштерегез.",
+    "modmenu.descriptionTranslation.advancementinfo": "Булган казанышларның һәм аларның алгарышының күренүчәнлек гадиләштерегез."
+}
